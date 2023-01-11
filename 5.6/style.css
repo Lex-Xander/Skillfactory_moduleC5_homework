@@ -1,0 +1,22 @@
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;	
+}
+
+#width, #height {
+	width: 170px;
+	margin: 20px 0px 5px;    
+}
+
+.j-btn {
+	width: 180px;
+	margin-top: 10px;	
+    background-color: blueviolet;
+    color: aliceblue;
+    font-size: 18px;
+}
+
+#result {
+    margin-top: 30px;    
+}
